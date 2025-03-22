@@ -1,2 +1,6 @@
 # AppleWatchData
-Apple Watch Data Example Code
+import healthkit
+import time
+import datetime
+import json
+import requests
